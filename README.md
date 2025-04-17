@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science Engineering Graduate from NMAMIT, Nitte  <br>💻 Full-Stack Developer | Backend Enthusiast<br>🌱 Currently learning  System Design, Microservices & Cloud Computing <br>🏆 Passionate about API development, scalable architectures, and distributed systems</p>
+<p align="left">🎓 Computer Science Engineering Graduate from NMAMIT, Nitte  <br>💻 Full-Stack Developer | Backend Enthusiast<br>🌱 Currently learning  System Design, Microservices & Cloud Computing <br>🏆 Passionate about API development, scalable architectures, and distributed systems <br>💼 Currently working as Backend Engineer - 1 @ Intellicar telematics </p>
 
 ###
 
