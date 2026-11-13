@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Software Developer | Full-Stack Engineer | Tech Enthusiast from Bengaluru</p>
+<p align="left">Software Developer | Backend Engineer | Tech Enthusiast from Bengaluru</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science Engineering Graduate from NMAMIT, Nitte  <br>💻 Full-Stack Developer | Backend Enthusiast<br>🌱 Currently learning  System Design, Microservices & Cloud Computing <br>🏆 Passionate about API development, scalable architectures, and distributed systems <br>💼 Currently working as Backend Engineer - 1 @ Intellicar telematics </p>
+<p align="left">🎓 Computer Science Engineering Graduate from NMAMIT, Nitte  <br>💻 Backend Enthusiast <br>🌱 Currently learning  System Design, Microservices <br>🏆 Passionate about Agentic Engineering, scalable architectures, and distributed systems <br>💼 Currently working as Backend Engineer - 1 @ Intellicar telematics </p>
 
 ###
 
@@ -25,11 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -41,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width = "12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -50,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/claudecode/claudecode-original.svg" height="40" alt="Claude Code logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/cursor/cursor-plain.svg" height="40" alt="Cursor logo"  />
 </div>
 
 ###
@@ -64,7 +60,6 @@
 <div align="left">
   <a href = "https://www.linkedin.com/in/nachiketha-k-c-a94a30247/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href = "nachikethakc192003@gmail.com" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
- <a href = "https://www.instagram.com/nachiketh_k_c/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
 </div>
 
 ###
