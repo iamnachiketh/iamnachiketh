@@ -44,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/claudecode/claudecode-original.svg" height="40" alt="Claude Code logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/cursor/cursor-plain.svg" height="40" alt="Cursor logo"  />
 </div>
 
